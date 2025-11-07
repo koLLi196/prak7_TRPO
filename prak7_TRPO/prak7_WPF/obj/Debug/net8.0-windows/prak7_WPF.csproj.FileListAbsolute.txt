@@ -1,0 +1,4 @@
+C:\system\Мезенцев\prak7_TRPO\prak7_WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\system\Мезенцев\prak7_TRPO\prak7_WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\system\Мезенцев\prak7_TRPO\prak7_WPF\obj\Debug\net8.0-windows\prak7_WPF_MarkupCompile.cache
+C:\system\Мезенцев\prak7_TRPO\prak7_WPF\obj\Debug\net8.0-windows\prak7_WPF_MarkupCompile.lref
